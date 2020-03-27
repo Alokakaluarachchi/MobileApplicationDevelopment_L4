@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="re">RE-enter</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="channel_name">My Notification</string>
+    <string name="channel_description">My Notification description</string>
+</resources>
